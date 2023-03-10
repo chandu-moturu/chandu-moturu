@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🚀 About Me
+🎓 I am Chandra Sekhar Moturu, a Web Developer (specialized in React Applications). I am also Pursuing my Bachelors in Computer Science & Engineering and will graduate in 2024.
+👨‍💻 I enjoy contributing to Open Source Projects.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from singing, playing and watching Ott.
+✈️ I love traveling too. My recent travelling is with my friends to Araku.
 
 <!-- **mr-innocent08/mr-innocent08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
