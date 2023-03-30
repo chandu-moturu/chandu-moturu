@@ -50,4 +50,17 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.innocent_008/)
 
 
+<div>&nbsp;
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mr-innocent08&show_icons=true&theme=dark" alt="mr-innocent08" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08t&layout=compact&theme=dark" alt="mr-innocent08" />
+</p>
+&nbsp;
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-innocent08&theme=dark" alt="mr-innocent08" />
+</p>
+</div>
 
