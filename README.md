@@ -56,7 +56,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08t&layout=compact&theme=dark" alt="mr-innocent08" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08&layout=compact&theme=dark" alt="mr-innocent08" />
 </p>
 &nbsp;
 <p>
