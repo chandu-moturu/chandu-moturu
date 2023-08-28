@@ -56,8 +56,8 @@
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=mr-innocent08&&show_icons=true&count_private=true&theme=github_dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08&layout=compact&theme=dark" alt="mr-innocent08" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-innocent08&theme=blueberry_duo"/> |
-| --- | ---- |
+| <img src="https://github-readme-stats.vercel.app/api?username=mr-innocent08&&show_icons=true&count_private=true&theme=github_dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08&layout=compact&theme=dark" alt="mr-innocent08" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-innocent08&theme=blueberry_duo"/> |
+| --- | ---- | --- |
 
 | <img src="https://github-profile-trophy.vercel.app/?username=mr-innocent08&theme=darkhub&column=8" alt="My GitHub stats"> |
 | --- |
