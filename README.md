@@ -53,25 +53,12 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.innocent_008/)
 
 
-<div>&nbsp;
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mr-innocent08&show_icons=true&theme=dark" alt="mr-innocent08" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08&layout=compact&theme=dark" alt="mr-innocent08" />
-</p>
-&nbsp;
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-innocent08&theme=dark" alt="mr-innocent08" />
-</p>
-</div>
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mr-innocent08&&show_icons=true&count_private=true&theme=github_dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-innocent08&layout=compact&theme=dark" alt="mr-innocent08" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-inncoent08&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=8" alt="My GitHub stats"> |
+| <img src="https://github-profile-trophy.vercel.app/?username=mr-innocent08&theme=darkhub&column=8" alt="My GitHub stats"> |
 | --- |
 | ![iamwatchdogs](https://github-readme-activity-graph.vercel.app/graph?username=mr-innocent08&theme=react-dark) |
