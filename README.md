@@ -1,4 +1,6 @@
 
+<img  alt="GIF" src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" />
+
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> I'm Chandra Sekhar Moturu
 
@@ -6,7 +8,7 @@
 
 <h2>🚀 About Me</h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500" />
 <br>
 <br>
 
